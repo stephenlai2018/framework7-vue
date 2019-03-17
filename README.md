@@ -1,1 +1,1 @@
-# framework7-vue
+# framework7-vue-webpack
